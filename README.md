@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm rajesh</h1>
 <h3 align="center">A passionate AWS devops from India</h3>
-<img src="https://thumbs.gfycat.com/ContentConfusedConch-size_restricted.gif"
+<img src="https://www.pngkey.com/png/full/484-4849946_clipart-clouds-animated-gif-implementation-icon.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maddalarajesh&label=Profile%20views&color=0e75b6&style=flat" alt="maddalarajesh" /> </p>
 
